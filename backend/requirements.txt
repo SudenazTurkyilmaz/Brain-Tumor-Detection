@@ -1,0 +1,8 @@
+tensorflow==2.16.2
+numpy==1.26.4
+opencv-python
+Pillow
+fastapi
+uvicorn
+python-multipart
+h5py

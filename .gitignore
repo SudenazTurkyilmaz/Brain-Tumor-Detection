@@ -1,0 +1,23 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Yüklenen dosyalar
+backend/uploads/
+
+# Gizli ayarlar
+.env
+.env.*
+!.env.example
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+backend/vgg19_best.weights.h5
