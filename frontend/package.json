@@ -1,0 +1,19 @@
+{
+  "name": "tez-web-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tez_backend_workspace": "file:.."
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.3",
+    "vite": "^7.3.1"
+  }
+}
