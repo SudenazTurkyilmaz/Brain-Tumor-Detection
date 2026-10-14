@@ -15,6 +15,7 @@ Bu tez projesinde, MRI beyin görüntülerini dört sınıfta (glioma, meningiom
 - React frontend ve FastAPI backend
 
 ## Tez posteri
+[sude_poster 1.pdf](https://github.com/user-attachments/files/33460083/sude_poster.1.pdf)
 
 
 ## Gereksinimler
